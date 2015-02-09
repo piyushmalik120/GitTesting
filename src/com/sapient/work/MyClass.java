@@ -4,7 +4,7 @@ public class MyClass {
 	
 	public static void main(String args[]) throws Exception {
 
-		System.out.println("My Hello World yes and no");
+		System.out.println("Testing");
 	}
 
 }
